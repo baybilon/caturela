@@ -152,7 +152,7 @@ body {
   }
 
   .container button::before {
-    content: "⬇️";
+    content: "⇩";
     font-size: 22px;
     color: #fff;
     position: absolute;
